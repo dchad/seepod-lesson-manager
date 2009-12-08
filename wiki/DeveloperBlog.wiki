@@ -1,0 +1,21 @@
+#summary Development Blog.
+
+= Introduction =
+
+Discussion of any design and development issues.
+
+
+= General Design Issues =
+
+* under construction *
+
+= User Interface Issues =
+
+
+= Java Development =
+
+
+= Testing Framework =
+
+
+= Documentation =
