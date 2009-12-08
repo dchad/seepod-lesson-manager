@@ -2,7 +2,18 @@
 
 = Introduction =
 
-Discussion of any design and development issues.
+Discussion of design and development issues.
+
+* 9 Dec 2010 *
+
+_ SeePod Extended Edition _
+
+A new version of SeePod Lesson Manager is now being tested. The _ Extended Edition _
+contains the XML viewer from WeePod and has a smaller GUI so it will fit properly
+on small netbook/notebook screens. More info shortly...
+
+
+
 
 
 = General Design Issues =
