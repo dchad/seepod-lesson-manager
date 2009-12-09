@@ -1,4 +1,5 @@
 #summary Development Blog.
+#labels Featured
 
 = Introduction =
 
@@ -15,4 +16,3 @@ on small netbook/notebook screens. More info shortly...
 Screenshot:
 
 http://seepod-lesson-manager.googlecode.com/files/seepod-extended-edition-xml.jpg
-
