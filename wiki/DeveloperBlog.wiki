@@ -10,7 +10,7 @@ Discussion of design and development activities.
 _ SeePod Extended Edition _
 
 A new version of SeePod Lesson Manager is now being tested. The _ Extended Edition _
-contains the XML viewer from WeePod and has a smaller GUI so it will fit properly
+contains the Web/XML browser from WeePod and has a smaller GUI so it will fit properly
 on small netbook/notebook screens. More info shortly...
 
 Screenshot:
